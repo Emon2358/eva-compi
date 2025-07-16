@@ -29,7 +29,7 @@ jobs:
           import shutil
           
           # Wayback Machine URL
-          archive_url = "https://web.archive.org/web/20090729072837/http://downloads.de-cendres.net/mirrors/EVAcompi.zip"
+          archive_url = "https://web.archive.org/web/20010910025527/http://www.xdsl.ne.jp/Al/djio/8-16/8-16.zip"
           
           try:
               # Create a directory for the download
